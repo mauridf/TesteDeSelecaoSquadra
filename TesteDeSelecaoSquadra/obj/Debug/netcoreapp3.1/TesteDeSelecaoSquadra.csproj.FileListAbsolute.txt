@@ -1,0 +1,9 @@
+C:\Projetos\TesteSelecaoSquadra\TesteDeSelecaoSquadra\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projetos\TesteSelecaoSquadra\TesteDeSelecaoSquadra\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projetos\TesteSelecaoSquadra\TesteDeSelecaoSquadra\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Projetos\TesteSelecaoSquadra\TesteDeSelecaoSquadra\obj\Debug\netcoreapp3.1\TesteDeSelecaoSquadra.csprojAssemblyReference.cache
+C:\Projetos\TesteSelecaoSquadra\TesteDeSelecaoSquadra\obj\Debug\netcoreapp3.1\TesteDeSelecaoSquadra.AssemblyInfoInputs.cache
+C:\Projetos\TesteSelecaoSquadra\TesteDeSelecaoSquadra\obj\Debug\netcoreapp3.1\TesteDeSelecaoSquadra.AssemblyInfo.cs
+C:\Projetos\TesteSelecaoSquadra\TesteDeSelecaoSquadra\obj\Debug\netcoreapp3.1\TesteDeSelecaoSquadra.RazorTargetAssemblyInfo.cache
+C:\Projetos\TesteSelecaoSquadra\TesteDeSelecaoSquadra\obj\Debug\netcoreapp3.1\staticwebassets\TesteDeSelecaoSquadra.StaticWebAssets.Manifest.cache
+C:\Projetos\TesteSelecaoSquadra\TesteDeSelecaoSquadra\obj\Debug\netcoreapp3.1\staticwebassets\TesteDeSelecaoSquadra.StaticWebAssets.xml

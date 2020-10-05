@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ICe4fmW7JAcJow6Y4wb7fkX+FDdQz2+6RsvuE4IqGDalqomjXg+mOkcjPlMFl3LKQ3vNgRuyzY2S49ROjZcDyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\TesteSelecaoSquadra\\TesteSelecaoSquadra\\TesteSelecaoSquadra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carrefour\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
